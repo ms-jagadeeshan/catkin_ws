@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/beginner_tutorials.dir/src/simple_node.cpp.o  -o /home/jaga_matrix/catkin_ws/devel/lib/beginner_tutorials/beginner_tutorials -rdynamic 

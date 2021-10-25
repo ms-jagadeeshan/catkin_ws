@@ -1,0 +1,14 @@
+<launch>
+  <node name="publisher_node" pkg="mastering_ros_demo_pkg"
+type="demo_topic_publisher" output="screen" />
+
+  <node name="subscriber_node" pkg="mastering_ros_demo_pkg"
+type="demo_topic_subscriber" output="screen" />
+
+  <node name="service_server" pkg="mastering_ros_demo_pkg"
+type="demo_service_server" output="screen" />
+
+  <node name="service_client" pkg="mastering_ros_demo_pkg"
+type="demo_service_client" output="screen" />
+
+</launch>

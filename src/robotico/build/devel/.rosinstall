@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jaga_matrix/catkin_ws/src/robotico/build/devel/setup.sh

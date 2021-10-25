@@ -1,0 +1,11 @@
+caster_f_height 0.04
+caster_f_radius 0.025
+caster_f_mass 0.5
+caster_b_height 0.04
+caster_b_radius 0.025
+caster_b_mass 0.5
+wheel_mass 2.5
+base_x_origin_to_wheel_origin 0.25
+base_y_origin_to_wheel_origin 0.3
+base_z_origin_to_wheel_origin 0.0
+hokuyo_size 0.05

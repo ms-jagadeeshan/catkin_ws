@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-5  -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/jaga_matrix/catkin_ws/src/robotico/build/gtest/gtest/src -lpthread -Wl,-rpath,/home/jaga_matrix/catkin_ws/src/robotico/build/gtest/gtest/src 

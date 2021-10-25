@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotico\\\" -I/home/jaga_matrix/catkin_ws/src/robotico/build/devel/include -I/home/jaga_matrix/catkin_ws/src/robotico/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O2 -g -DNDEBUG   -o CMakeFiles/sensor_data_publisher.dir/src/sensor_data_publisher.cpp.o -c /home/jaga_matrix/catkin_ws/src/robotico/src/sensor_data_publisher.cpp",
+  "file": "/home/jaga_matrix/catkin_ws/src/robotico/src/sensor_data_publisher.cpp"
+},
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotico\\\" -I/home/jaga_matrix/catkin_ws/src/robotico/build/devel/include -I/home/jaga_matrix/catkin_ws/src/robotico/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O2 -g -DNDEBUG   -o CMakeFiles/sensor_data_receiver.dir/src/sensor_data_receiver.cpp.o -c /home/jaga_matrix/catkin_ws/src/robotico/src/sensor_data_receiver.cpp",
+  "file": "/home/jaga_matrix/catkin_ws/src/robotico/src/sensor_data_receiver.cpp"
+},
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robotico\\\" -I/home/jaga_matrix/catkin_ws/src/robotico/build/devel/include -I/home/jaga_matrix/catkin_ws/src/robotico/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O2 -g -DNDEBUG   -o CMakeFiles/warning_server.dir/src/warning_server.cpp.o -c /home/jaga_matrix/catkin_ws/src/robotico/src/warning_server.cpp",
+  "file": "/home/jaga_matrix/catkin_ws/src/robotico/src/warning_server.cpp"
+},
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/usr/src/gtest/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/gmock/src/gmock-all.cc",
+  "file": "/usr/src/gmock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/usr/src/gtest/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/gmock/src/gmock-all.cc",
+  "file": "/usr/src/gmock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/gmock/src/gmock_main.cc",
+  "file": "/usr/src/gmock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build/gtest/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/gtest/include -I/usr/src/gtest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/jaga_matrix/catkin_ws/src/robotico/build/gtest/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/gtest/include -I/usr/src/gtest  -O2 -g -DNDEBUG -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/gtest/src/gtest_main.cc",
+  "file": "/usr/src/gtest/src/gtest_main.cc"
+}
+]

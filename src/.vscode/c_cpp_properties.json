@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/jaga_matrix/catkin_ws/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/jaga_matrix/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/jaga_matrix/catkin_ws/src/dwr/include/**",
+        "/home/jaga_matrix/catkin_ws/src/dwr_teleops/include/**",
+        "/home/jaga_matrix/catkin_ws/src/mastering_ros_demo_pkg/include/**",
+        "/home/jaga_matrix/catkin_ws/src/robotico/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

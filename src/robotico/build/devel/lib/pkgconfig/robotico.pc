@@ -1,0 +1,8 @@
+prefix=/home/jaga_matrix/catkin_ws/src/robotico/build/devel
+
+Name: robotico
+Description: Description of robotico
+Version: 0.0.0
+Cflags: -I/home/jaga_matrix/catkin_ws/src/robotico/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: actionlib actionlib_msgs roscpp std_msgs
